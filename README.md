@@ -1,4 +1,4 @@
-### <h1 bg-color="powderblue">Hello, iam kushala.<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"></h1>
+### <h1 bg-color="powderblue">Hello, iam kushala.</h1><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/kushalamgowda?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/kushalamgowda?style=social)
