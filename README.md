@@ -3,10 +3,13 @@
 
 <h3>about me.</h3>
 
-<h6>i am a <strong>cs </strong> undergradutate at<u> JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.</u>
 
 
-i am currently learning something cool😁😁😁.</h6>
+<h5>i am a <strong>cs </strong> undergradutate at<u> JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.</u></h5>
+<br>
+
+
+<h5>i am currently learning something cool😁😁😁.</h5>
 <!--
 **kushalamgowda/kushalamgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
