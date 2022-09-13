@@ -1,5 +1,8 @@
 ### Hello, iam kushala.👋
+###abhot me.
+#i am a cs undergradutate at JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.
 
+i am currently learning something cool Rat on WhatsApp 2.22.8.79.
 <!--
 **kushalamgowda/kushalamgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
