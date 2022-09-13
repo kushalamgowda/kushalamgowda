@@ -1,4 +1,4 @@
-### <h1>Hello, iam kushala.👋</h1>
+### <h1 bg-color="powderblue">Hello, iam kushala.👋</h1>
 
 
 <h3>about me.</h3>
