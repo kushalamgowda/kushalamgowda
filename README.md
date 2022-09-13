@@ -6,7 +6,7 @@
 <h6>i am a <strong>cs </strong> undergradutate at<u> JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.</u>
 
 
-i am currently learning something cool Rat on WhatsApp 2.22.8.79.</h6>
+i am currently learning something cool😁😁😁.</h6>
 <!--
 **kushalamgowda/kushalamgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
