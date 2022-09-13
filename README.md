@@ -1,6 +1,8 @@
 ### Hello, iam kushala.👋
-###abhot me.
-#i am a cs undergradutate at JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.
+<h1>about me.</h1>< 
+br>
+i am a cs undergradutate at JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.
+
 
 i am currently learning something cool Rat on WhatsApp 2.22.8.79.
 <!--
