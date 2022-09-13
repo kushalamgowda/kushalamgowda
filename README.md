@@ -1,7 +1,6 @@
 ### <h1 bg-color="powderblue">Hello, iam kushala.👋</h1>
 
-
-<h2><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"><h/h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"><h/h2>
 
 
   
