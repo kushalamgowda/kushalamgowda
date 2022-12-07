@@ -9,8 +9,8 @@
 <h3>about me.</h3>
 
 
-<h5>i am a <strong>cs</strong> undergradutate at<u>JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.</u></h5>
-  <h5> know, i am studying in <strong>SAMBHRAM INSTITUTE OF TECHNOLOGY, bangalore.</h5>
+<h5>i am a <strong>cs</strong> undergradutate at<ul>JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.</ul></h5>
+  <h5> know, i am studying in <strong>SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE</strong>.</h5>
 
 <h5>i am currently learning something cool😁😁😁.</h5>
 <!--
