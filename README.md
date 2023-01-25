@@ -10,7 +10,7 @@
 
 
 <h5>i am a <strong>CS</strong> undergradutate at<u>JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.</u></h5>
-  <h5> know, i am studying <h1>B.E</h1> in <strong>SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE</strong> as a CSE student.</h5>
+  <h5> know, i am studying<strong> B.E </strong> in <strong>SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE</strong> as a CSE student.</h5>
 
 <h5>i am currently learning something cool😁😁😁.</h5>
 <!--
