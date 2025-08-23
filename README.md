@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a CS undergradutate atJYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.<br>know, i am studying B.E in SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE as a CSE student.<br>i am currently learning something cool😁😁😁
+i am a CS undergradutate at JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.<br>know, i am studying B.E in SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE as a CSE student.<br>i am currently learning something cool😁😁😁
 
 
 ## 🌐 Socials:
