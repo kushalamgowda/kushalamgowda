@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>i am a CS undergradutate at JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.<br>know, i am studying B.E in SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE as a CSE student.<br>i am currently learning something cool😁😁😁<br><br><br>
+<br>i am a CS undergradutate at JYOTHI NIVAS PRE-UNIVARSITY COLLEGE, BANGALORE.<br>know, i am studying B.E in SAMBHRAM INSTITUTE OF TECHNOLOGY, BANGALORE as a CSE student.<br>i am currently learning something cool😁😁😁<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/19kushala06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushala-m-gowda-67b347263) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/19_kushala_1289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:19kushala@gmail.com) 
