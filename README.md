@@ -74,6 +74,29 @@ Git • GitHub • AWS • Google Cloud • Render • Vercel
 
 ✔ Full Stack Development
 
+## 🏆 Achievements
+
+🥇 Hackathon Participant
+
+🚀 Deployed Full Stack AI Applications
+
+📚 Built Multiple AI & Computer Vision Projects
+
+## 🎯 2026 Goals
+
+- Contribute to Open Source
+- Land a Software Developer Role
+- Build SaaS Products
+- Master System Design
+
+- ## 🔥 Current Focus
+
+- FastAPI
+- React
+- Generative AI
+- Machine Learning
+- Cloud Deployment
+
 ---
 
 ## 📈 GitHub Stats
