@@ -7,6 +7,7 @@ Building AI-powered applications, scalable web platforms, and intelligent automa
 
 ---
 
+
 ## 🚀 About Me
 
 🎓 CSE Student at Sambhram Institute of Technology, Bangalore
